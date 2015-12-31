@@ -5,3 +5,4 @@
 <h5>To start: npm strat</h5>
 
 <p>By Minwei Xu</p>
+![](/ScreenShot.png "ScreenShot")
